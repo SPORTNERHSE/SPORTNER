@@ -9,11 +9,19 @@ REPO for discussion of NER research seminar
 - Лига
 - Название команды 1
 - Название команды 2 
+## Goal
+Test different methods of NER (state of the art pref), to extract:
+- Coefficent
+- Type of bet
+- Bookmaker
+- League
+- Team 1
+- Team 2
 
 ## Датасет с прогнозами спортивных мероприятий
-- Всего прогнозов - 870 362
-- Уникальных прогнозов - 628 231
-- Прогнозов на английском - 89 657
-- Средняя длина прогноза - 52
-- Медианная длина прогноза - 42
+- Всего прогнозов (Total forecasts) - 870 362
+- Уникальных прогнозов (Unique forecasts) - 628 231
+- Прогнозов на английском (English forecasts) - 89 657
+- Средняя длина прогноза (mean length of forecast) - 52
+- Медианная длина прогноза (median length of forecast) - 42
 
