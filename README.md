@@ -1,5 +1,11 @@
 # SPORTNER
 REPO for discussion of NER research seminar
+
+## Project participants: 
+Konovalov Kirill, Kherullah Ghadeer.
+## Project Manager: 
+Gorbachev Vitaliy
+
 ## Цель
 Протестить разные методы распознавания именованных сущностей (в идеале state-of-the-art), а именно:
 - Коэффициент
