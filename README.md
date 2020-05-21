@@ -14,8 +14,13 @@ Project Manager: Gorbachev Vitaliy
 - [Presentation 1](https://docs.google.com/presentation/d/1JwsfVE41-dbPCQicatKWcWG3RtbJTgnu7HFH7VDUr4M/edit?usp=sharing)
 - [Presentation 2](https://docs.google.com/presentation/d/1pEJNlHUpqobb8mx355cGO42pWQEsqwoFxrSZxuvio64/edit?usp=sharing)
 
-### Project description
+### Project description:
 #### Goal
-The main goal of our project is to find named entities (names of teams and leagues) in the dataset with forecasts of sports events in Russian and English. 
+- The main goal of our project is to find named entities (names of teams and leagues) in the dataset with forecasts of sports events in Russian and English. 
+- We study the dataset and determine the quantity and complexity of extracting the named entities contained in the text.
+- We identify 2 ways that are best suited to extract leagues and teams
+
+#### Data
+In our project we are using a dataset with predictions written in Russian and English about various sports events. The dataset contains 702 908 unique texts with prognoses which have been parsed from sports fan websites and forums. There are 595 931 russian  and 106 940 english texts. Besides predictions it has information about team names, leagues, bookmaker names, dates, tips and odds of different matches.
 
 
