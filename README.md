@@ -1,9 +1,9 @@
 # SPORTNER
 REPO for discussion of NER research seminar
 
-## Project participants: 
+### Project participants: 
 Konovalov Kirill, Kherullah Ghadeer.
-## Project Manager: 
+### Project Manager: 
 Gorbachev Vitaliy
 
 ## Цель
